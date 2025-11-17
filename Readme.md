@@ -1,3 +1,7 @@
+Name: Subha Sri Lakshmi Achyutha 
+
+700#: 700766668
+
 ## Q1 – Character-Level RNN Language Model 
 
 In this question, I implemented a character-level RNN that predicts the next character in a sequence. I first prepared a small toy dataset using short words such as “hello” and “help”, and later added a larger text file to expose the model to more patterns. All characters were mapped to integer IDs to form a vocabulary.
